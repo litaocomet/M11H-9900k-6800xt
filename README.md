@@ -18,6 +18,8 @@ SSD：三星 SM961 256G
 
 以太网：Intel i210T1
 
+无线蓝牙：BCM 943602CDP
+
 声卡：板载 ALC1220 + 独立 AudioEngine D1
 
 压缩包已删除白果三码，随机生成了。机型smbios选取的 iMac 19,1
@@ -42,3 +44,8 @@ usb端口定制：前面板3.0借口舍弃了2.0功能，后面板usb-typc舍弃
 
 <img width="668" alt="WX20210907-011525@2x" src="https://user-images.githubusercontent.com/23051375/132249176-fccd5997-0851-482c-b7b2-f01d5941c864.png">
 
+<img width="685" alt="WX20210907-014138@2x" src="https://user-images.githubusercontent.com/23051375/132249837-1f6e2a4c-61f7-4b0e-874d-298e6f9757d1.png">
+
+<img width="888" alt="WX20210907-014434@2x" src="https://user-images.githubusercontent.com/23051375/132250066-2dc2b06e-0f0b-4a8b-b807-dbea558c7540.png">
+
+<img width="623" alt="WX20210907-014457@2x" src="https://user-images.githubusercontent.com/23051375/132250073-d9affa74-674d-4655-ad50-1bfa17c76614.png">
