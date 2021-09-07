@@ -900,7 +900,7 @@
                     <key>DefaultBackgroundColor</key>
                     <data>AAAAAA==</data>
                     <key>UIScale</key>
-                    <data>AQ==</data>
+                    <data>Ag==</data>
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
@@ -983,13 +983,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C029319024NLNV98C</string>
+                <string>C02018501J9LNV91H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>4105</integer>
                 <key>ROM</key>
-                <data>O8NYAIO6</data>
+                <data>fiO9rkoR</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -997,9 +997,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02Z50DGJV3Q</string>
+                <string>C02CNRZ7JV3Q</string>
                 <key>SystemUUID</key>
-                <string>E75B7961-EA21-40DA-8A0C-18EA324376C8</string>
+                <string>F4495F92-E69F-4E67-BCDA-2770081433C4</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1071,9 +1071,30 @@
             <true/>
             <key>Drivers</key>
             <array>
-                <string>HfsPlus.efi</string>
-                <string>OpenCanopy.efi</string>
-                <string>OpenRuntime.efi</string>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>HfsPlus.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>OpenRuntime.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>OpenCanopy.efi</string>
+                </dict>
             </array>
             <key>Input</key>
             <dict>
@@ -1172,6 +1193,8 @@
                 <false/>
                 <key>ExitBootServicesDelay</key>
                 <integer>0</integer>
+                <key>ForceOcWriteFlash</key>
+                <false/>
                 <key>ForgeUefiSupport</key>
                 <false/>
                 <key>IgnoreInvalidFlexRatio</key>
