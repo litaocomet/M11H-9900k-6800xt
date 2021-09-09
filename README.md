@@ -49,3 +49,8 @@ usb端口定制：前面板3.0借口舍弃了2.0功能，后面板usb-typc舍弃
 <img width="888" alt="WX20210907-014434@2x" src="https://user-images.githubusercontent.com/23051375/132250066-2dc2b06e-0f0b-4a8b-b807-dbea558c7540.png">
 
 <img width="623" alt="WX20210907-014457@2x" src="https://user-images.githubusercontent.com/23051375/132250073-d9affa74-674d-4655-ad50-1bfa17c76614.png">
+
+![12](https://user-images.githubusercontent.com/23051375/132729692-f6827159-0699-4bba-94a7-2d552ae154e0.png)
+
+![13psd](https://user-images.githubusercontent.com/23051375/132729711-9bf0db10-2f31-4b4e-a2f4-934ecf2a1186.png)
+
